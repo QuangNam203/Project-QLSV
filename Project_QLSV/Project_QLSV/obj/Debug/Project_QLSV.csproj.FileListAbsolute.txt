@@ -1,0 +1,89 @@
+D:\Project C#\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.exe.config
+D:\Project C#\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.exe
+D:\Project C#\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.pdb
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.AssemblyReference.cache
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.frmMain.resources
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.Properties.Resources.resources
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.GenerateResource.cache
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.CoreCompileInputs.cache
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.exe
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.pdb
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.FrmDSSV.resources
+D:\Project C#\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.FrmSinhVien.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.exe.config
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.exe
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.pdb
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.FrmDSSV.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.frmMain.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.FrmSinhVien.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.Properties.Resources.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.exe
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.pdb
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.FrmUpdate.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\bin\Debug\Project_QLSV.exe.config
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\bin\Debug\Project_QLSV.exe
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\bin\Debug\Project_QLSV.pdb
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.user.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.FrmSinhVien.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Properties.Resources.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.exe
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.pdb
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.frmMain.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.FrmKyLuat.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.ADDKyLuat.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Kỷ_Luật.UpdateKyLuat.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Học_Bổng.FrmHocBong.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.User.ForgetACC.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.User.ShowACC.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Class_Sinh_Viên.Class.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Class_Sinh_Viên.SVinClass.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.RútHS.FrmStatus.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Khen_Thưởng.FrmKhenThuong.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Khen_Thưởng.ADDKhen.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.ADDSV.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.UpdateSV.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Khen_Thưởng.UpdateKhen.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Học_Bổng.ADDHocBong.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Học_Bổng.UpdateHocBong.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.RútHS.ADDStatus.resources
+C:\Users\admin\OneDrive - National Economics University\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.RútHS.UpdateStatus.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\bin\Debug\Project_QLSV.exe.config
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\bin\Debug\Project_QLSV.exe
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\bin\Debug\Project_QLSV.pdb
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Class_Sinh_Viên.Class.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Class_Sinh_Viên.SVinClass.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Học_Bổng.ADDHocBong.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Học_Bổng.FrmHocBong.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Học_Bổng.UpdateHocBong.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Khen_Thưởng.ADDKhen.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Khen_Thưởng.FrmKhenThuong.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Khen_Thưởng.UpdateKhen.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.ADDKyLuat.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Kỷ_Luật.UpdateKyLuat.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.RútHS.FrmStatus.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.RútHS.ADDStatus.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.RútHS.UpdateStatus.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.FrmSinhVien.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.FrmKyLuat.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.FrmMain.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.User.ForgetACC.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.User.ShowACC.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.user.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.ADDSV.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.UpdateSV.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.Properties.Resources.resources
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.exe
+C:\Users\Windows\Desktop\Project_QLSV_2\Project_QLSV\obj\Debug\Project_QLSV.pdb
